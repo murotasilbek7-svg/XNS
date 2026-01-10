@@ -17,7 +17,7 @@ Loyihani yuklab oling:
 
 Bash
 
-git clone https://github.com/sizning-profilingiz/xns-engine.git
+git clone https://github.com/murotasilbek7/xns.git
 cd xns-engine
 Dasturni ishga tushiring: Loyiha ichidagi run.bat faylini ikki marta bosing yoki terminal orqali ishga tushiring:
 
